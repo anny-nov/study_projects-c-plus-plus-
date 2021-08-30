@@ -1,0 +1,3 @@
+﻿  ex9.cpp
+C:\Users\anuto\source\repos\Practic work №1\ex9.cpp(10,7): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Exersize 9.vcxproj -> C:\Users\anuto\source\repos\Exersize 9\Debug\Exersize 9.exe
