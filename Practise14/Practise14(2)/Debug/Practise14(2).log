@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\anuto\source\repos\Practise14\Practise14(2)\main.cpp(68,22): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\anuto\source\repos\Practise14\Practise14(2)\main.cpp(68,22): warning C4244:         with
+C:\Users\anuto\source\repos\Practise14\Practise14(2)\main.cpp(68,22): warning C4244:         [
+C:\Users\anuto\source\repos\Practise14\Practise14(2)\main.cpp(68,22): warning C4244:             T=float
+C:\Users\anuto\source\repos\Practise14\Practise14(2)\main.cpp(68,22): warning C4244:         ]
+  Practise14(2).vcxproj -> C:\Users\anuto\source\repos\Practise14\Debug\Practise14(2).exe
