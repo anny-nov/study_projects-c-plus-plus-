@@ -1,0 +1,18 @@
+﻿  massive.cpp
+C:\Users\anuto\source\repos\Massive\massive.cpp(46,26): error C2062: тип "int" не требуется
+C:\Users\anuto\source\repos\Massive\massive.cpp(49,37): error C2065: maxim: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(50,16): error C2065: min: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(50,23): error C2065: min: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(50,37): error C2065: mini: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(52,48): error C2065: maxim: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(53,48): error C2065: mini: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(55,6): error C2065: mini: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(55,13): error C2065: maxim: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(57,12): error C2065: maxim: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(57,27): error C2065: mini: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(62,6): error C2065: mini: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(62,13): error C2065: maxim: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(64,12): error C2065: mini: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(64,26): error C2065: maxim: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(69,6): error C2065: mini: необъявленный идентификатор
+C:\Users\anuto\source\repos\Massive\massive.cpp(69,14): error C2065: maxim: необъявленный идентификатор
