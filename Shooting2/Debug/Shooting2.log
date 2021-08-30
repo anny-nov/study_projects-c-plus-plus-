@@ -1,0 +1,3 @@
+﻿  shooting2.cpp
+C:\Users\anuto\source\repos\Shooting2\shooting2.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Shooting2.vcxproj -> C:\Users\anuto\source\repos\Shooting2\Debug\Shooting2.exe
